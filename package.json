@@ -1,0 +1,12 @@
+{
+  "name": "cock-team",
+  "version": "1.0.0",
+  "main": "source/main.js",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "csv-parse": "^5.2.0",
+    "csv-stringify": "^6.1.2",
+    "event-stream": "^4.0.1"
+  }
+}
